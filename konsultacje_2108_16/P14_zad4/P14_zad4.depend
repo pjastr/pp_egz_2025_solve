@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755785851 source:c:\users\piotrek\documents\cbprojects\p14_zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+
